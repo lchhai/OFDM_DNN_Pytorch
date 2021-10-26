@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+H_dataset/
+backup/
+log_train/
+channel_response_set_test.npy
+channel_response_set_train.npy
+Pilot_8
+Pilot_64
+
 # C extensions
 *.so
 
