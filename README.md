@@ -9,3 +9,6 @@ Reproducing the study of paper "Power of Deep Learning for Channel Estimation an
 2. unzip and move the dataset to the project
 3. run train file  
 ```python main.py```
+
+### reference
+https://github.com/haoyye/OFDM_DNN
